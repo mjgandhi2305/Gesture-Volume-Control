@@ -89,7 +89,7 @@ Our custom-built module enhances Mediapipe functionality with:
 
 ## Documentation
 
-For detailed instructions and API documentation, visit our [Documentation]([link-to-your-documentation](https://github.com/mjgandhi2305/Gesture-Volume-Control/blob/master/docs/docs.md)).
+For detailed instructions and API documentation, visit our [Documentation](https://github.com/mjgandhi2305/Gesture-Volume-Control/blob/master/docs/docs.md).
 
 ## License
 
