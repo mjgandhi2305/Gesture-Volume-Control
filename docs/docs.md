@@ -1,4 +1,4 @@
-# Gesture Scroll: Hand Gesture-Based Volume Control
+# Hand Gesture-Based Volume Control
 
 ## Working Principle
 
