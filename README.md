@@ -1,5 +1,11 @@
 # Gesture-Based Volume Control
 
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-informational)
+[![Python](https://img.shields.io/badge/Python-%203.8%20%7C%203.9%20%7C%203.10-informational)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-Apache-green)](./LICENSE)
+[![Code style: Black](https://img.shields.io/badge/Code%20style-Black-000.svg)](https://github.com/psf/black)
+
+
 Control your system volume with hand gestures using computer vision and hand tracking technologies.
 
 ## Overview
