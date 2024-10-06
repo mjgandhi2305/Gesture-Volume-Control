@@ -10,6 +10,8 @@ Control your system volume with hand gestures using computer vision and hand tra
 
 ## Overview
 
+![Volume-control-using hand gesture](docs/volume-control-gesture)
+
 This project enables users to control system volume using intuitive hand gestures. By leveraging computer vision and hand tracking, we've created a touchless interface that adjusts volume based on the distance between your thumb and index finger. This solution enhances accessibility and provides an innovative approach to user interaction.
 
 ## Tech Stack
